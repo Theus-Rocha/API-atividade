@@ -271,3 +271,4 @@
 /home/theus/Documentos/ATIVIDADE-04/ATIVIDADE04/obj/Debug/net8.0/Exo.WebApi.pdb
 /home/theus/Documentos/ATIVIDADE-04/ATIVIDADE04/obj/Debug/net8.0/Exo.WebApi.genruntimeconfig.cache
 /home/theus/Documentos/ATIVIDADE-04/ATIVIDADE04/obj/Debug/net8.0/ref/Exo.WebApi.dll
+/home/theus/Documentos/ATIVIDADE-04/ATIVIDADE04/obj/Debug/net8.0/Exo.WebApi.sourcelink.json
